@@ -22,11 +22,10 @@ A nivel visual, se utilizó **DAICYUI** para los componentes de interfaz, lo cua
 
 1. **Clonar el repositorio**
 
-   Clona el repositorio del backend y navega a la carpeta del proyecto:
+   Una vez clonado este repositorio, nevigate a la carpeta del backend
 
    ```bash
-   git clone <URL-del-repositorio>
-   cd nombre-del-proyecto-backend
+    cd  test-twototango-backend
    ```
 
 2. **Instalar las dependencias**
@@ -68,13 +67,12 @@ POSTGRES_DB=twototango
 
 ### Configuración e Inicio del Frontend
 
-1. **Clonar el repositorio**
+1. **Navegar al repositorio**
 
-   Clona el repositorio del frontend y navega a la carpeta del proyecto:
+   Una vez clonado este repositorio, nevigate a la carpeta del frontend
 
    ```bash
-   git clone <URL-del-repositorio>
-   cd nombre-del-proyecto-frontend
+    cd  test-twototango-frontend
    ```
 
 2. **Instalar las dependencias**
